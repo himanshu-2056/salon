@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 import Header from "@/components/header";
-import { features, gallery, services, testimonials } from "./data";
 import Footer from "@/components/footer";
+import { features, gallery, services, testimonials } from "@/components/data";
 
 export default function Home() {
   return (
